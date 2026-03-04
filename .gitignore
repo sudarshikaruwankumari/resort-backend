@@ -28,8 +28,7 @@ ehthumbs.db
 src/main/java/com/example/ocean_view_backend/config/AuthTokenFilter.java
 src/main/java/com/example/ocean_view_backend/config/CorsConfig.java
 src/main/java/com/example/ocean_view_backend/config/JwtUtils.java
-src/main/java/com/example/ocean_view_backend/config/MongoConfig.java
-src/main/java/com/example/ocean_view_backend/config/UserDetailsImpl.java
+ 
 src/main/java/com/example/ocean_view_backend/config/UserDetailsServiceImpl.java
 
 ### Ignore Resources ###
