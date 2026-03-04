@@ -22,7 +22,7 @@ ehthumbs.db
 .env.*.local
 
 ### Ignore Backend Source Folders ###
-src/main/java/com/example/ocean_view_backend/
+ 
 
 ### Ignore Specific Config Files (if you want to be more precise) ###
 src/main/java/com/example/ocean_view_backend/config/AuthTokenFilter.java
